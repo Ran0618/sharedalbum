@@ -1,2 +1,2 @@
 # sharedalbum
-none
+*my first repo*
